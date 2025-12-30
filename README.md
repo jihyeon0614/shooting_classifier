@@ -69,3 +69,4 @@ basketball-classifier/
 데이터셋을 준비하여 업로드합니다. (데이터 경로 수정 필요)
 
 코드를 순차적으로 실행하여 모델 학습 및 테스트를 진행합니다.
+train data set 다운로드 링크 : https://drive.google.com/drive/folders/1VEcPWDDyta-voxnDXX9Hn86meZwwFNOA?usp=drive_link
